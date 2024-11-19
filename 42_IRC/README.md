@@ -1,8 +1,16 @@
 # Ft_irc (Internet Relay Chat Server)
 
-![Static Badge](https://img.shields.io/badge/PASS-125%2F125-0?style=flat-square&logo=42&logoColor=FFFFFFF&logoSize=auto&labelColor=000000&color=green) [![C++](https://img.shields.io/badge/C++-98-blue.svg?style=flat-square)]() [![TCP/IP](https://img.shields.io/badge/Protocol-TCP/IP-blue.svg?style=flat-square)]()[![License](https://img.shields.io/badge/License-42-blue.svg?style=flat-square)](https://www.42.fr/)
+![Static Badge](https://img.shields.io/badge/PASS-125%2F125-0?style=flat-square&logo=42&logoColor=FFFFFFF&logoSize=auto&labelColor=000000&color=green) ![Static Badge](https://img.shields.io/badge/3_Persons-black?style=flat-square&label=Group&labelColor=black&color=blue) [![C++](https://img.shields.io/badge/C++-98-blue.svg?style=flat-square)]() [![TCP/IP](https://img.shields.io/badge/Protocol-TCP/IP-blue.svg?style=flat-square)]() [![License](https://img.shields.io/badge/License-42-blue.svg?style=flat-square)](https://www.42.fr/)
 
 A C++98 implementation of an IRC (Internet Relay Chat) server with multiple client handling capabilities.
+
+## Group
+
+<p align="center">
+<a href="https://github.com/RussellParadox"><img src="https://avatars.githubusercontent.com/u/121818957?v=4" title="Gdornic" width="50" height="50"></a>
+<a href="https://github.com/BiGZ31"><img src="https://avatars.githubusercontent.com/u/101286697?v=4" title="Lmontgomri" width="50" height="50"></a>
+<a href="https://github.com/qcoudeyr"><img src="https://avatars.githubusercontent.com/u/124463277?v=4" title="Qcoudeyr" width="50" height="50"></a>
+</p>
 
 ## Table of Contents
 

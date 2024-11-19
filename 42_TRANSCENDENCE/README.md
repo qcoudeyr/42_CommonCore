@@ -1,6 +1,6 @@
 # Transcendence
 
-![Static Badge](https://img.shields.io/badge/PASS-125%2F125-black?style=flat-square&logo=42&logoColor=FFFFFFF&logoSize=auto&labelColor=000000&color=green) ![Static Badge](https://img.shields.io/badge/3_Person-black?style=flat-square&label=Group&labelColor=black&color=blue) [![License](https://img.shields.io/badge/License-42-blue.svg?style=flat-square)](https://www.42.fr/)
+![Static Badge](https://img.shields.io/badge/PASS-125%2F125-black?style=flat-square&logo=42&logoColor=FFFFFFF&logoSize=auto&labelColor=000000&color=green) ![Static Badge](https://img.shields.io/badge/3_Persons-black?style=flat-square&label=Group&labelColor=black&color=blue) [![License](https://img.shields.io/badge/License-42-blue.svg?style=flat-square)](https://www.42.fr/)
 
 A real-time multiplayer Pong game web application with user authentication, chat features, and a matchmaking system.
 

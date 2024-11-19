@@ -1,8 +1,15 @@
 # Minishell
 
-![Static Badge](https://img.shields.io/badge/PASS-115%2F125-black?style=flat-square&logo=42&logoColor=FFFFFFF&logoSize=auto&labelColor=000000&color=green)[ ![Language](https://img.shields.io/badge/Language-C-blue.svg?style=flat-square)](https://en.wikipedia.org/wiki/C_(programming_language)) [![License](https://img.shields.io/badge/License-42-blue.svg?style=flat-square)](https://www.42.fr/)
+![Static Badge](https://img.shields.io/badge/PASS-115%2F125-black?style=flat-square&logo=42&logoColor=FFFFFFF&logoSize=auto&labelColor=000000&color=green) [![Static Badge](https://img.shields.io/badge/2_Persons-black?style=flat-square&label=Group&labelColor=black&color=blue)](https://www.42.fr/) ![Language](https://img.shields.io/badge/Language-C-blue.svg?style=flat-square) [![License](https://img.shields.io/badge/License-42-blue.svg?style=flat-square)](https://www.42.fr/)
 
 A lightweight, bash-like shell implementation in C, designed to provide an interactive command-line interface.
+
+## Group
+
+<p align="center">
+<a href="https://github.com/Lima-Heco"><img src="https://avatars.githubusercontent.com/u/140182811?v=4" title="Lheinrich" width="50" height="50"></a>
+<a href="https://github.com/qcoudeyr"><img src="https://avatars.githubusercontent.com/u/124463277?v=4" title="Qcoudeyr" width="50" height="50"></a>
+</p>
 
 ## Table of Contents
 

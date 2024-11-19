@@ -1,6 +1,6 @@
 # Net_Practice
 
-![Static Badge](https://img.shields.io/badge/PASS-100%2F100-black?style=flat-square&logo=42&logoColor=FFFFFFF&logoSize=auto&labelColor=000000&color=green) [![Project Status](https://img.shields.io/badge/Status-Version%203.1-success?style=flat-square)](https://github.com/yourusername/Net_Practice) [![License](https://img.shields.io/badge/License-42-blue.svg?style=flat-square)](https://www.42.fr/)
+![Static Badge](https://img.shields.io/badge/PASS-100%2F100-black?style=flat-square&logo=42&logoColor=FFFFFFF&logoSize=auto&labelColor=000000&color=green) [![License](https://img.shields.io/badge/License-42-blue.svg?style=flat-square)](https://www.42.fr/)
 
 A System Administration project focused on network configuration and TCP/IP addressing.
 

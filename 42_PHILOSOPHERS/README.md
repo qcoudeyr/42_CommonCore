@@ -1,6 +1,6 @@
 # Philosophers
 
-[![Static Badge](https://img.shields.io/badge/PASS-100%2F125-black?style=flat-square&logo=42&logoColor=FFFFFFF&logoSize=auto&labelColor=000000&color=green) ![Language](https://img.shields.io/badge/Language-C-green?style=flat-square)](https://file+.vscode-resource.vscode-cdn.net/home/someonecautious/Documents/project/42/42_PHILOSOPHER/)
+[![Static Badge](https://img.shields.io/badge/PASS-100%2F125-black?style=flat-square&logo=42&logoColor=FFFFFFF&logoSize=auto&labelColor=000000&color=green) ](https://file+.vscode-resource.vscode-cdn.net/home/someonecautious/Documents/project/42/42_PHILOSOPHER/)[![Language](https://img.shields.io/badge/Language-C-blue.svg?style=flat-square)](https://en.wikipedia.org/wiki/C_(programming_language)) [![License](https://img.shields.io/badge/License-42-blue.svg?style=flat-square)](https://www.42.fr/)
 
 A C programming project exploring threading, mutexes, and process synchronization using a dining philosophers simulation.
 
