@@ -1,2 +1,1 @@
-# 42_CommonCore
-All my project from the commun core cursus of 42
+# 42 Common Core Project List
