@@ -27,40 +27,40 @@ This repository contains a collection of projects completed during the 42 School
 
 ### Level 0
 
-- **[Libft](./42_LIBFT/README.md)**: A custom C library implementing standard functions
+- **[Libft](./42_LIBFT)**: A custom C library implementing standard functions
 
 ### Level 1
 
-- **[Born2beRoot](./42_BORNTOBEROOT/README.md)**: System administration project using virtual machines
-- **[ft_printf](./42_FT_PRINTF/README.md)**: Recreation of the printf function
-- **[get_next_line](./42_GET_NEXT_LINE/README.md)**: Function for reading lines from file descriptors
+- **[Born2beRoot](./42_BORNTOBEROOT)**: System administration project using virtual machines
+- **[ft_printf](./42_FT_PRINTF)**: Recreation of the printf function
+- **[get_next_line](./42_GET_NEXT_LINE)**: Function for reading lines from file descriptors
 
 ### Level 2
 
-- **[push_swap](./42_PUSH_SWAP/README.md)**: Sorting algorithm implementation
-- **[pipex](./42_PIPEX/README.md)**: Unix pipe mechanism implementation
-- **[fdf](./42_FDF/README.md)**: 3D wireframe renderer
+- **[push_swap](./42_PUSH_SWAP)**: Sorting algorithm implementation
+- **[pipex](./42_PIPEX)**: Unix pipe mechanism implementation
+- **[fdf](./42_FDF)**: 3D wireframe renderer
 
 ### Level 3
 
-- **[philosophers](./42_PHILOSOPHERS/README.md)**: Thread and process synchronization
-- **[minishell](./42_MINISHELL/README.md)**: Shell implementation
+- **[philosophers](./42_PHILOSOPHERS)**: Thread and process synchronization
+- **[minishell](./42_MINISHELL)**: Shell implementation
 
 ### Level 4
 
-- **[cub3d](./42_CUB3D/README.md)**: Raycasting-based 3D game engine
-- **[NetPractice](./42_NETPRACTICE/README.md)**: Network configuration exercises
+- **[cub3d](./42_CUB3D)**: Raycasting-based 3D game engine
+- **[NetPractice](./42_NETPRACTICE)**: Network configuration exercises
 - **CPP-Module 0-4**: Cpp exercice to understand difference between C
 
 ### Level 5
 
-- **[inception](./42_INCEPTION/README.md)**: Docker-based system administration
-- **[IRC](./42_IRC/README.md)**: Internet Relay Chat server implementation
+- **[inception](./42_INCEPTION)**: Docker-based system administration
+- **[IRC](./42_IRC)**: Internet Relay Chat server implementation
 - **CPP-Module 5-9**: Cpp exercice to understand difference between C
 
 ### Level 6
 
-- **[transcendence](./42_TRANSCENDENCE/README.md)**: Full-stack web application (Pong game)
+- **[transcendence](./42_TRANSCENDENCE)**: Full-stack web application (Pong game)
 
 ## Installation
 
