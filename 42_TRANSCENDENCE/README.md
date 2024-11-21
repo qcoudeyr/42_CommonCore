@@ -42,6 +42,10 @@ A real-time multiplayer Pong game web application with user authentication, chat
 <img alt="Static Badge" src="https://img.shields.io/badge/Portainer-black?style=flat-square&logo=portainer&logoColor=%2313BEF9&color=black&link=">
 </p>
 
+## Video Showcase
+
+[tr_fullvideo.webm](https://github.com/user-attachments/assets/516f7878-a5fd-4431-8c7b-287e58d4c7e2)
+
 ## Installation
 
 Prerequisites:
